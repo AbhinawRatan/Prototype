@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Build and dist directories
+/dist/
+/build/
+
+# Log files
+/logs/
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+package-lock.json
